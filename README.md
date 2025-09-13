@@ -50,3 +50,9 @@ Posible subregistro en los datos de homicidios.
 En municipios pequeños las tasas pueden ser muy variables.
 
 Cambios en la división territorial pueden afectar la comparación.
+
+##  Enlace a la aplicación
+Puedes acceder a la aplicación dando clic aquí:  
+[🔗 Ver aplicación](https://tres-machine.streamlit.app/)
+
+
